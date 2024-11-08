@@ -14,7 +14,6 @@
 - 🎨 **Intuitive Design**: Clean, minimalistic, and user-friendly UI for smooth navigation.
 - 📂 **Organized Views**: Separate screens for categories, detailed expenses, and summaries.
 - 📅 **Responsive Layout**: Consistent experience across various screen sizes, supporting both mobile and tablet.
-- 🌙 **Dark Mode Ready**: A visually refined dark mode for enhanced user experience in low-light conditions.
 
 ---
 
@@ -37,7 +36,7 @@ This project highlights my attention to detail in crafting user interfaces that 
 ## 📂 Project Structure
 
 - **lib**: Contains main UI screens, widgets, and custom components.
-- **assets**: Houses images, icons, and theme assets.
+- **assets**: Houses images and icons.
 
 ---
 
